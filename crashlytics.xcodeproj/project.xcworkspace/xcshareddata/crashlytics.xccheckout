@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8D3BF0C7-82E7-47E2-BEAC-1B8AC6640475</string>
+	<key>IDESourceControlProjectName</key>
+	<string>crashlytics</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7355729900E970396DD65BD854EFA4DE38C4C88D</key>
+		<string>https://github.com/mikefogg/CrashlyticsModule.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>crashlytics.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7355729900E970396DD65BD854EFA4DE38C4C88D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mikefogg/CrashlyticsModule.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7355729900E970396DD65BD854EFA4DE38C4C88D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7355729900E970396DD65BD854EFA4DE38C4C88D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CrashlyticsModule</string>
+		</dict>
+	</array>
+</dict>
+</plist>
